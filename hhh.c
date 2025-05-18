@@ -2,5 +2,4 @@
 void main
 {
 printf("hiiii");
-return 0;
 }
